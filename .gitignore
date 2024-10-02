@@ -1,0 +1,9 @@
+# Avoid making conflicting website addresses with other repositories
+amr-wind/
+amr-wind.*
+nalu-wind/
+nalu-wind.*
+exawind-driver/
+exawind-driver.*
+exawind-benchmarks/
+exawind-benchmarks.*
